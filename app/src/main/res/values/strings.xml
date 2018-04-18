@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">二维码生成器</string>
+    <string name="no_permission">没有%1$s权限，无法%2$s！</string>
+    <string name="qrcode_file_name">QRCode_%s.jpg</string>
+    <string name="qrcode_save_failure">保存失败</string>
+    <string name="qrcode_save_success">二维码已保存至/SDCard/Pictures/%s</string>
+    <string name="cancel">取消</string>
+    <string name="et_hint">请输入文本</string>
+    <string name="btn_text">生成二维码</string>
+</resources>
